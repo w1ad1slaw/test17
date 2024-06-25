@@ -1,0 +1,9 @@
+th {
+  background: #CCC;
+}
+td, th {
+  padding:2px 5px; 
+}
+td.number {
+  text-align: right;
+}

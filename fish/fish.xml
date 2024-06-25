@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='fish.xsl'?>
+<Рыбы>
+<Рыба название="окунь"  лат="Perca"         фото="okun.jpg"   текст="Окуни" ссылка="http://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D1%83%D0%BD%D0%B8"/>
+<Рыба название="судак"  лат="Sander"        фото="sudak.jpg"  текст="Обыкновенный судак" ссылка="http://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D1%83%D0%B4%D0%B0%D0%BA"/>
+<Рыба название="сиг"    лат="Coregonus"     фото="sig.jpg"    текст="Сиги" ссылка="http://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B3"/>
+<Рыба название="налим"  лат="Lota lota"     фото="nalim.jpg"  текст="Налим" ссылка="http://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BB%D0%B8%D0%BC"/>
+<Рыба название="лещ"    лат="Abramis brama" фото="lesch.jpg"  текст="Лещ" ссылка="http://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%89"/>
+<Рыба название="плотва" лат="Rutilus"       фото="plotva.jpg" текст="Плотва" ссылка="http://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%BE%D1%82%D0%B2%D0%B0"/>
+</Рыбы>
+

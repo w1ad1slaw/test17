@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='auto.xsl'?>
+<Авто>
+<Авто Название="Ford Fusion" Фото="images/fordfsn.jpg"
+      Ссылка="http://www.ford.com/cars/fusion/"/>
+<Авто Название="Toyota Corolla" Фото="images/toyota.jpg"
+      Ссылка="http://www.toyota.com/corolla/"/>
+<Авто Название="Chevrolet Cruze" Фото="images/chevrolet.jpg"
+      Ссылка="http://www.chevrolet.com/cruze-compact-car.html"/>
+</Авто>
+
